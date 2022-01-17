@@ -1,0 +1,17 @@
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\owid-covid-data.json
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\StatsForm.exe.config
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\StatsForm.exe
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\StatsForm.pdb
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\Common.dll
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\Newtonsoft.Json.dll
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\Common.pdb
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\Newtonsoft.Json.xml
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.csproj.AssemblyReference.cache
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.Form1.resources
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.Properties.Resources.resources
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.csproj.GenerateResource.cache
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.csproj.CoreCompileInputs.cache
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.csproj.CopyComplete
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.exe
+E:\repos\CovidStats\CovidStats\StatsForm\obj\Debug\StatsForm.pdb
+E:\repos\CovidStats\CovidStats\StatsForm\bin\Debug\owid-covid-data (1).json
